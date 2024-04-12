@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-andyinnie
 
-Deployed at: https://jpa02-andyinnie.dokku-xx.cs.ucsb.edu
+Deployed at: http://jpa02-andyinnie.dokku-14.cs.ucsb.edu
 
 
 # About this repo
